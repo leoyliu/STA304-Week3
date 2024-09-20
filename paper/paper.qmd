@@ -1,12 +1,11 @@
 ---
-title: "My title"
-subtitle: "My subtitle if needed"
+title: "Marriage in Toronto"
 author: 
   - Yuanyi (Leo) Liu
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "This paper analyzes marriage data in Toronto over the last decade, highlighting trends in marriage rates, average age at first marriage, and seasonality. Using data from the Open Data Toronto, we apply statistical methods to explore how economic conditions and cultural diversity influence these trends. The study provides insights into the changing matrimonial landscape in Toronto, useful for policymakers and social researchers."
 format: pdf
 number-sections: true
 bibliography: references.bib
